@@ -1,6 +1,6 @@
 #Tryouts: Rules Primer
 
-## General Guidelines
+## General Guideline
 
 1. **Registered IGNs/Account IDs Only**
    - Players must join games using the **IGNs/Account IDs** they registered with.
